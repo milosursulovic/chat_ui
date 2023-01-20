@@ -1,5 +1,6 @@
 import 'package:chat_ui/widgets/favorite_contacts.dart';
 import 'package:flutter/material.dart';
+
 import '../widgets/category_selector.dart';
 import '../widgets/recent_chats.dart';
 
