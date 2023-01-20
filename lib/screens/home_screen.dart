@@ -16,6 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
         backgroundColor: Theme.of(context).colorScheme.primary,
         appBar: AppBar(
+          centerTitle: true,
           leading: IconButton(
             icon: const Icon(Icons.menu),
             iconSize: 30.0,
